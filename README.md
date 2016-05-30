@@ -12,4 +12,4 @@
 - Erle-HexaCopter-Snappy-th9x-T-motors-Frame-type-X-Gimbal-2D [latest parameters] (https://raw.githubusercontent.com/erlerobot/erle_parameters/master/copter/Hexa-Snappy-TH9X-01-09-2015-framex-tmotor.param)
 - Erle-Plane-Snappy-Debian-th9x: [latest parameters](https://raw.githubusercontent.com/erlerobot/erle_parameters/master/plane/ErlePlane-Turnigy9x.param)
 - Erle-Rover-Snappy-Debian: [latest parameters](https://raw.githubusercontent.com/erlerobot/erle_parameters/master/rover/APMrover_10_04_2015.param)
-- Erle-Boat [https://github.com/abilbaotm/erle_parameters](https://raw.githubusercontent.com/erlerobot/erle_parameters/master/boat/boat-24-05-2016-TGY-i6.param)
+- Erle-Boat: [latest parameters](https://raw.githubusercontent.com/erlerobot/erle_parameters/master/boat/boat-24-05-2016-TGY-i6.param)
