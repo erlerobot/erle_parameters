@@ -13,3 +13,7 @@
 - Erle-Plane-Snappy-Debian-th9x: [latest parameters](https://raw.githubusercontent.com/erlerobot/erle_parameters/master/plane/ErlePlane-Turnigy9x.param)
 - Erle-Rover-Snappy-Debian: [latest parameters](https://raw.githubusercontent.com/erlerobot/erle_parameters/master/rover/APMrover_10_04_2015.param)
 - Erle-Boat: [latest parameters](https://raw.githubusercontent.com/erlerobot/erle_parameters/master/boat/boat-24-05-2016-TGY-i6.param)
+
+# PX4 parameters:
+
+- Erle-Copter quad X configuration [latest parameters](https://github.com/erlerobot/erle_parameters/blob/master/PX4_PARAMETERS/Quad-X/parameters)
