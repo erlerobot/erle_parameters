@@ -1,6 +1,6 @@
 # Erle Robotics vehicles parameters:
 
-- Erle-Copter-Debian-TGY-i6: [latest](https://raw.githubusercontent.com/erlerobot/erle_parameters/master/copter/frambuesa-12-10-2016-TGY-i6.param)
+- Erle-Copter-Debian-TGY-i6: [latest-parameters](https://raw.githubusercontent.com/erlerobot/erle_parameters/master/copter/frambuesa-12-10-2016-TGY-i6.param)
 - Erle-Copter-Debian-th9x: [latest-parameters](https://raw.githubusercontent.com/erlerobot/erle_parameters/master/copter/copter_autotune_th9x.param)
 - Erle-Copter-Debian-taranis-Support-for-Gimbal: [latest-parameters](https://raw.githubusercontent.com/erlerobot/erle_parameters/master/copter/copter-autotune-taranis-voltage-failsafe.param)
 - Erle-Copter-Snappy-th9x: [latest-parameters](https://raw.githubusercontent.com/erlerobot/erle_parameters/master/copter/snappy_28-05-2015-TH9X.param)
